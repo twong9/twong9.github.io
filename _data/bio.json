@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tsz Ching Wong",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://ibb.co/1TZxc7t",
+    "email": "twong9@hawaii.edu",
+    "phone": "808-636-4550",
+    "website": "https://twong9.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer and Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "twong9", "url": "http://github.com/twong9" },
+      { "network": "linkedin", "username": "tszchingwong", "url": "https://www.linkedin.com/in/tszchingwong/" },
+      { "network": "instagram", "username": "Queendy1020", "url": "http://instagram.com/queendy1020" }
     ]
   },
   "interests": [
