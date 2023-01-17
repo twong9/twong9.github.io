@@ -6,7 +6,7 @@
     "email": "twong9@hawaii.edu",
     "phone": "808-636-4550",
     "website": "https://twong9.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer and Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "twong9", "url": "http://github.com/twong9" },
@@ -15,28 +15,28 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Web/Software Deevelopment" },
+    { "name": "Data Science" },
+    { "name": "Auto-navigation" },
+    { "name": "User-Interface Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-10",
       "endDate": "Present",
       "courses": [
       ]
