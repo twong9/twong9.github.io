@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<!-- <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png"> -->
+<img width="300px" class="rounded float-start pe-4" src="../img/smartQuestion.jpeg">
 
 If you have not heard of or used StackOverflow, then you are probably one of the smartest software engineers working for the FANG companies or simply a genius. For those who might be familiar with this platform designed for software engineers, StackOverflow allows anyone to post questions and receive responses. We are often told to ask questions either in the classroom or in the workspace. But, the most important thing is to ask the right questions. The purpose of asking questions is to establish communication and common ground. 
 
