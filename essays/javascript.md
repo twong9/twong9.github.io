@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-<!-- <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg"> -->
+<img width="200px" class="rounded float-start pe-4" src="../img/practice.jpg">
 
 Javascript is one of the most powerful languages in software engineering. It is known for its flexibility and compatibility with other languages/tools. Different from other hardware languages such as C/C++, Javascript functions are considered “first-class” since they can be assigned to variables that can be easily manipulated. Because of that, Javascript has been one of my favorite programming languages in software development. Having to work with various programming languages in projects has helped me gain introductory knowledge to many languages but not necessarily an “expert” in one language. 
 
