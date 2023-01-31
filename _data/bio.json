@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "HTML/CSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -44,10 +44,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Mun Lun School",
+      "position": "Teacher Assistant for Scratch",
+      "website": "munlunschool.com",
+      "startDate": "2021-08-15",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
