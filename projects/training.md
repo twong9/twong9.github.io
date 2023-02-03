@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/training.png
-title: "Reinforce Active Shooter rediness and training"
+title: "Reinforce Active Shooter readiness and training"
 date: 2022
 published: true
 labels:
