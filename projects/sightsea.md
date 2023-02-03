@@ -24,3 +24,5 @@ SightSea allows for anyone to submit reports form either IOS or Android devices.
 
 ## How we built it
 We used react-native to build a cross-platform application. We did this using node, expo for development and testing, and GitHub for version control.
+
+Check out the video [demo] (https://devpost.com/software/sightsea)!
