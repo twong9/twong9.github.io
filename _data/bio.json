@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "PHP", "SQL", "PySpark", "Jupyter Notebook", "React", "Angular", "ArcGIS", "TypeScript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "PHP", "SQL", "PySpark", "Jupyter Notebook", "React", "Angular", "ArcGIS", "TypeScript", "Firebase", "Expo", "MongoDB","Meteor" ]
     },
     {
       "name": "Toolsets/OS",
