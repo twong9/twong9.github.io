@@ -2,9 +2,8 @@
   "basics": {
     "name": "Tsz Ching Wong",
     "label": "Student",
-    "picture": "https://ibb.co/1TZxc7t",
+    "picture": "https://github.com/USERNAME.png",
     "email": "twong9@hawaii.edu",
-    "phone": "808-636-4550",
     "website": "https://twong9.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -24,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "PHP", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,25 +33,26 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2023)",
+      "area": "Computer Engineering (expected Summer, 2023)",
       "studyType": "B.S.",
       "startDate": "2019-08-10",
       "endDate": "Present",
       "courses": [
+        "EE495", "ICS321", "ICS314", "EE342", "EE496"
       ]
     }
   ],
   "work": [
     {
       "company": "Mun Lun School",
-      "position": "Teacher Assistant for Scratch",
+      "position": "Teacher Assistant/Website Developer",
       "website": "munlunschool.com",
       "startDate": "2021-08-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Design, maintain, and update school official website",
+        "Help elementary school children learn about Scratch, an introductory interactive programming website for children"
       ]
     },
     {
