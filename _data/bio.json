@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "PHP", "SQL" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "PHP", "SQL", "PySpark", "Jupyter Notebook", "React", "Angular", "ArcGIS", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -42,7 +42,7 @@
       ]
     }
   ],
-  "work": [
+  "experience": [
     {
       "company": "Mun Lun School",
       "position": "Teacher Assistant/Website Developer",
@@ -56,58 +56,56 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Booz Allen Hamilton",
+      "position": "Summer Games Intern",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-10",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Developed a social media analysis platform for DoD clients by providing an interactive dashboard that visualized countries' sentiment scores",
+        "Ingested open-source data from Twitter into machine learning models to perform data analysis",
+        "Improved data accuracy by removing fake news, filtering out state-owned accounts, and performing multiple sentiment analyses"
+        
       ]
     },
     {
-      "organization": "",
+      "company": "Hacking for Defense (H4D)",
+      "position": "Business Lead",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2022-01-19",
+      "endDate": "2022-05-20",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Worked on semester long project for Navy to revamp their Active Shooter readiness protocols and training",
+        "Led market research and use of Mission Model Canvas",
+        "Interviewed 50 stakeholders and conducted an employee survey to identify gaps in the current system that led to employees feeling underprepared",
+        "Designed an entirely new training system to prepare employees for a crisis situation, including interactive modules, videos, and quizzes"
+        
+      ]
+    },
+    {
+      "company": "DataHouse",
+      "position": "Summer Intern",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-10",
+      "summary": "",
+      "highlights": [
+        "Interacted with clients on problem solving, designing, client feedback and implementing products",
+        "Learned customer relations-communication (company stresses the use of customer-based cycle similar to the Agile Development Process Cycle often used by startups)"
+        
       ]
     }
   ],
+
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2019-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
