@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/code.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/code.png">
 
 ## The importance of coding standards
 Do you have a set of rules in your household that must be followed? Rules can vary from household to household, such as whether shoes should be removed before entering the house or how often chores should be performed. When visiting a friend, you might find that they don't have any rules, which can be confusing to constantly adjust to. In coding, coding standards provide a set of guidelines for software developers to follow when programming. These standards ensure that the code is styled consistently and is readable. Coding standards are essential for the quality of the code, especially when working with other developers. Although code may still run without fully complying with the standards, debugging can become a challenging task.
