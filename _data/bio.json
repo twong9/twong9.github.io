@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "Tsz Ching Wong",
+    "label": "Student",
+    "picture": "https://github.com/twong9.png",
+    "email": "twong9@hawaii.edu",
+    "website": "https://twong9.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Summer, 2023.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "twong9", "url": "http://github.com/twong9" },
+      { "network": "linkedin", "username": "tszchingwong", "url": "https://www.linkedin.com/in/tszchingwong/" },
+      { "network": "instagram", "username": "Queendy1020", "url": "http://instagram.com/queendy1020" }
+    ]
+  },
+  "interests": [
+    { "name": "Artificial Intelligence" },
+    { "name": "Web/Software Development" },
+    { "name": "Data Science" },
+    { "name": "Auto-navigation" },
+    { "name": "User-Interface Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python", "PHP", "SQL", "PySpark", "Jupyter Notebook", "React", "Angular", "ArcGIS", "TypeScript", "Firebase", "Expo", "MongoDB","Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Summer, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-10",
+      "endDate": "Present",
+      "courses": [
+        "EE495", "ICS321", "ICS314", "EE342", "EE496"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Mun Lun School",
+      "position": "Teacher Assistant/Website Developer",
+      "website": "",
+      "startDate": "2021-08-15",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Design, maintain, and update school official website",
+        "Help elementary school children learn about Scratch, an introductory interactive programming website for children"
+      ]
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "position": "Summer Games Intern",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-10",
+      "summary": "",
+      "highlights": [
+        "Developed a social media analysis platform for DoD clients by providing an interactive dashboard that visualized countries' sentiment scores",
+        "Ingested open-source data from Twitter into machine learning models to perform data analysis",
+        "Improved data accuracy by removing fake news, filtering out state-owned accounts, and performing multiple sentiment analyses"
+        
+      ]
+    },
+    {
+      "company": "Hacking for Defense (H4D)",
+      "position": "Business Lead",
+      "website": "",
+      "startDate": "2022-01-19",
+      "endDate": "2022-05-20",
+      "summary": "",
+      "highlights": [
+        "Worked on semester long project for Navy to revamp their Active Shooter readiness protocols and training",
+        "Led market research and use of Mission Model Canvas",
+        "Interviewed 50 stakeholders and conducted an employee survey to identify gaps in the current system that led to employees feeling underprepared",
+        "Designed an entirely new training system to prepare employees for a crisis situation, including interactive modules, videos, and quizzes"
+        
+      ]
+    },
+    {
+      "company": "DataHouse",
+      "position": "Summer Intern",
+      "website": "",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-10",
+      "summary": "",
+      "highlights": [
+        "Interacted with clients on problem solving, designing, client feedback and implementing products",
+        "Learned customer relations-communication (company stresses the use of customer-based cycle similar to the Agile Development Process Cycle often used by startups)"
+        
+      ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2019 - Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
