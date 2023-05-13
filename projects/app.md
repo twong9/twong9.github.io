@@ -11,7 +11,7 @@ labels:
   - React-Bootstrap
   - MongoDB
   - GitHub
-summary: "[Taste Technologists](https://github.com/taste-technologists) is a web application designed for college students with limited kitchen resources, minimal cooking skills, and limited access to groceries. Our application is for college students who would like to eat healthier and spend less money on eating out. This application is based on [Toaster Oven Lovin'](https://courses.ics.hawaii.edu/ics314s23/morea/final-project/reading-project-toaster-oven-lovin.html)."
+summary: "Taste Technologists is a web application designed for college students with limited kitchen resources, minimal cooking skills, and limited access to groceries. Our application is for college students who would like to eat healthier and spend less money on eating out. This application is based on Toaster Oven Lovin."
 ---
 
 <img class="img-fluid" src="../img/M3_Landing.png">
